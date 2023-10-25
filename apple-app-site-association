@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "WYU68YC5SH.ru.business.first",
+            "paths": ["/path-for-redirectionl/*"]
+        },
+        {
+            "appID": "TZ4CMC2N6D.ru.vbo.business-test",
+            "paths": ["/path-for-redirectionl/*"]
+        }]
+    }
+}
