@@ -1,4 +1,4 @@
-xcode://clone?repo=https://github.com/Vegas1995/link)https://github.com/Vegas1995/link.git
+xcode://clone?repo=<https://github.com/Vegas1995/link.git>
 # link
 testFunctionalLink
 https://raw.githubusercontent.com/Vegas1995/link/main/apple-app-site-association
